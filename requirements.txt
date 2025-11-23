@@ -1,4 +1,6 @@
 numpy==2.3.5
 Pillow==12.0.0
 Python-IO==0.3
+python-math==0.0.1
+
 
